@@ -68,7 +68,7 @@ While working on this project, we had a few ideas for future work:
 
 ## Authors
 
-- **Shoham Grunblat** - [GitHub](https://github.com/FlyingShosho) | [LinkedIn](https://www.linkedin.com/in/shoham-grunblat/)
+- **Shoham Grunblat** - [GitHub](https://github.com/ShohamGR) | [LinkedIn](https://www.linkedin.com/in/shoham-grunblat/)
 - **Liad Mordechai** - [GitHub](https://github.com/liadMor123) | [LinkedIn](https://www.linkedin.com/in/liad-mordechai/)
 
 ## Acknowledgments
