@@ -51,15 +51,8 @@ To use the model for predictions:
 1. **Ensure that the data is in place.**
 
 2. **Run the notebook**: Open the `UniqueGroupParsingCSV_Final.ipynb` and follow the instructions to generate predictions.
-
-## Future Work
-
-While working on this project, we had a few ideas for future work:
-1. 
-2. 
-3. 
-4. 
-5. 
+   
+3. **Run the notebook**: Open the `SlowFastActionRecognition.ipynb` and follow the instructions to generate predictions.
 
 ## Sources and References
 ### Sources
@@ -74,7 +67,7 @@ While working on this project, we had a few ideas for future work:
 ## Acknowledgments
 
 This project is our final project at the Technion Electrical and Computer Engineering Faculty.
-We would like to express our gratitude to our supervisor, Ori Bryt, Shir Gravitz and the SIPL lab for all the help and guidance.
+We would like to express our gratitude to our supervisor Ori Bryt, our collaborator Shir Gravitz and the SIPL lab team for all the help and guidance.
 
 ## License
 
