@@ -56,12 +56,14 @@ To use the model for predictions:
 
 ## Sources and References
 ### Sources
+Our data was collected independently from surveillence cameras located in Katzenelson and Remez public parks.
+Our SlowFast model was based on [Facebook Research: SlowFast](https://github.com/facebookresearch/SlowFast)
 
 ### References
 * [A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise](https://cdn.aaai.org/KDD/1996/KDD96-037.pdf)
 * [YOLOv8](https://github.com/ultralytics/ultralytics)
-* [google-bert/bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased?text=The+goal+of+life+is+%5BMASK%5D)
-* [Predicting Medal Counts in Olympics Using Machine Learning Algorithms A Comparative Analysis](https://www.researchgate.net/profile/Nongmeikapam-Thoiba-Singh/publication/378535086_Predicting_Medal_Counts_in_Olympics_Using_Machine_Learning_Algorithms_A_Comparative_Analysis/links/65f5549d1f0aec67e29d3db3/Predicting-Medal-Counts-in-Olympics-Using-Machine-Learning-Algorithms-A-Comparative-Analysis.pdf)
+* [Slowfast Networks for Video Recognition](https://arxiv.org/abs/1812.03982)
+  
 ## Authors
 
 - **Shoham Grunblat** - [GitHub](https://github.com/ShohamGR) | [LinkedIn](https://www.linkedin.com/in/shoham-grunblat/)
