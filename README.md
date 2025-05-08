@@ -1,4 +1,4 @@
-# Smart Planning of Parks and Public Spaces Using Computer Vision - Final Project - Winter+Spring 2024
+![image](https://github.com/user-attachments/assets/343c3cdf-81b6-41c5-8284-c421723e8582)# Smart Planning of Parks and Public Spaces Using Computer Vision - Final Project - Winter+Spring 2024
 ## Shoham Grunblat | Liad Mordechai
 
 <p align="middle">
@@ -58,7 +58,10 @@ To use the model for predictions:
 ### Sources
 
 ### References
-
+* [A Density-Based Algorithm for Discovering Clusters in Large Spatial Databases with Noise](https://cdn.aaai.org/KDD/1996/KDD96-037.pdf)
+* [YOLOv8](https://github.com/ultralytics/ultralytics)
+* [google-bert/bert-base-uncased](https://huggingface.co/google-bert/bert-base-uncased?text=The+goal+of+life+is+%5BMASK%5D)
+* [Predicting Medal Counts in Olympics Using Machine Learning Algorithms A Comparative Analysis](https://www.researchgate.net/profile/Nongmeikapam-Thoiba-Singh/publication/378535086_Predicting_Medal_Counts_in_Olympics_Using_Machine_Learning_Algorithms_A_Comparative_Analysis/links/65f5549d1f0aec67e29d3db3/Predicting-Medal-Counts-in-Olympics-Using-Machine-Learning-Algorithms-A-Comparative-Analysis.pdf)
 ## Authors
 
 - **Shoham Grunblat** - [GitHub](https://github.com/ShohamGR) | [LinkedIn](https://www.linkedin.com/in/shoham-grunblat/)
