@@ -57,6 +57,7 @@ To use the model for predictions:
 ## Sources and References
 ### Sources
 Our data was collected independently from surveillence cameras located in Katzenelson and Remez public parks.
+
 Our SlowFast model was based on [Facebook Research: SlowFast](https://github.com/facebookresearch/SlowFast)
 
 ### References
